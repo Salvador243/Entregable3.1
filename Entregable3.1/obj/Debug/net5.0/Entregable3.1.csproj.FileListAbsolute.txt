@@ -1,0 +1,16 @@
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\bin\Debug\net5.0\Entregable3.1.exe
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\bin\Debug\net5.0\Entregable3.1.deps.json
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\bin\Debug\net5.0\Entregable3.1.runtimeconfig.json
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\bin\Debug\net5.0\Entregable3.1.runtimeconfig.dev.json
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\bin\Debug\net5.0\Entregable3.1.dll
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\bin\Debug\net5.0\ref\Entregable3.1.dll
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\bin\Debug\net5.0\Entregable3.1.pdb
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\obj\Debug\net5.0\Entregable3.1.csprojAssemblyReference.cache
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\obj\Debug\net5.0\Entregable3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\obj\Debug\net5.0\Entregable3.1.AssemblyInfoInputs.cache
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\obj\Debug\net5.0\Entregable3.1.AssemblyInfo.cs
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\obj\Debug\net5.0\Entregable3.1.csproj.CoreCompileInputs.cache
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\obj\Debug\net5.0\Entregable3.1.dll
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\obj\Debug\net5.0\ref\Entregable3.1.dll
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\obj\Debug\net5.0\Entregable3.1.pdb
+C:\Users\salva\RiderProjects\Entregable3.1\Entregable3.1\obj\Debug\net5.0\Entregable3.1.genruntimeconfig.cache
