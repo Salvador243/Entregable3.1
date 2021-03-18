@@ -55,7 +55,7 @@ namespace Entregable3._1
             //variables que se usan en el ejercicio
             int sumaTotal = 0;
             int multiplicacion = 1;
-            Console.Write("Escriba un numero impar entre 1 y 19: ");
+            Console.WriteLine("Escriba un numero impar entre 1 y 19: ");
             int entrada = Int32.Parse(Console.ReadLine());
             //validamos que el numero este dentro de un rango
             if (entrada > 0 && entrada <= 19)
