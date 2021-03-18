@@ -55,7 +55,7 @@ namespace Entregable3._1
             //variables que se usan en el ejercicio
             int sumaTotal = 0;
             int multiplicacion = 1;
-            Console.Write("Escriba un numero impar: ");
+            Console.Write("Escriba un numero impar entre 1 y 19: ");
             int entrada = Int32.Parse(Console.ReadLine());
             //validamos que el numero este dentro de un rango
             if (entrada > 0 && entrada <= 19)
@@ -110,7 +110,7 @@ namespace Entregable3._1
                 if (349.99 - x < ((5 * (400 - x)) / 6) && ((5 * (400 - x)) / 6) < 350.09 - x)
                 {
                     //como ya se cumplio la condicion entonces contramos el valor y se imprime
-                    Console.WriteLine("El precion del libro es de: " + x);
+                    Console.WriteLine("El precio del libro es de: " + x);
                     //se cierra el ciclo por que si no se repetira varias veces
                     break;
                 }
